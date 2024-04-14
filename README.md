@@ -1,4 +1,4 @@
-# Sorted-list-implementation
+# Linked_list implementation and modifications
 
 This repo includes three files. 
 - Main.java is a driver file that generates a random list of integers and times how long it takes to the methods in the SortedList.java file. 
